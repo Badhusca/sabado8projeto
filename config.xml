@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.1" id="org.LucasBadhusca.icoapp">
+    <name>testeappsab08</name>
+    <description>
+        DESCRIÇÃO DO APP DESCRIÇÃO DO APP DESCRIÇÃO DO APP DESCRIÇÃO DO APP
+		DESCRIÇÃO DO APP DESCRIÇÃO DO APP DESCRIÇÃO DO APP DESCRIÇÃO DO APP
+    </description>
+    <author>
+        Lucas Badhusca Alves
+    </author>
+    <icon src="icoapp.jpg"/>
+    <gap:splash src="7c1d5728110dcae29b6741cfedc29b95.jpg"/>
+</widget>
